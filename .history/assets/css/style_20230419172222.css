@@ -13,31 +13,15 @@
 }
 
 .ui-menu-color-resume {
-    background-color: #278502;
+    background-color: #1e6900;
 }
 
 .ui-menu-color-contact {
-    background-color: #036eac;
+    background-color: #035381;
 }
 
 .ui-menu-color-download {
-    background-color: #5c5c5c;
-}
-
-/* ------- Special paddings/margins/text ---------*/
-
-h1,h2,h3,h4 {
-    margin: 0;
-}
-
-.uppercase {
-    text-transform: uppercase;
-}
-
-.general-sub {
-    font-family: 'Exo', sans-serif;
-    font-weight: 300;
-    color: #fafafa;
+    background-color: #202020;
 }
 
 
@@ -62,7 +46,7 @@ header {
 }
 
 .name {
-    font-family: 'Anuphan', sans-serif;
+    font-family: 'Exo', sans-serif;
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
@@ -130,15 +114,6 @@ header {
 /* ------- Hover.css ---------*/
 
 .hvr-bounce-to-bottom:before {
-    background: rgba(0, 0, 0, 0.3) !important;
+    background: rgba(0, 0, 0, 0.2);
     height: 120px;
-
-}
-
-/* ------- Footer ---------*/
-
-footer {
-    background-color: #525252;
-    color: #fafafa;
-    min-height: 120px;
 }
