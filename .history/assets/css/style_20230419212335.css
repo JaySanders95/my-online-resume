@@ -253,11 +253,10 @@ footer {
 .personal-info-item .key p {
     font-weight: 700;
 
-
 }
 
 .personal-info-item .value {
     position: relative;
     width: 60%;
-
+    
 }
